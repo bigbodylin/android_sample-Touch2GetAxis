@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Touch2GetAxis</string>
+  <string name="show_xy_axis_format">Now point X: %1$d Y: %2$d</string>
+</resources>
